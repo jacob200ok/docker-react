@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          New TV!
+          Nice study work!!
         </a>
       </header>
     </div>
